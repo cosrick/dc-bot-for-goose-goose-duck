@@ -1,0 +1,27 @@
+export const respond = {
+  "dodo": "中立方 小丑鴨 被投出去就贏",
+  "assassin": "賭鴨 會議時可以猜職業 猜中時可以刺殺對方 猜錯則自己死亡",
+  "birdwatcher": "Can see through walls but has limited regular vision.",
+  "canadian": "誘餌鵝 殺掉你的人會自動舉報屍體",
+  "cannibal": "食鵝鴨 一場可以吃掉一個屍體",
+  "detective": "偵探鵝 可以偵查一個對象 看他在此之前有沒有殺過鵝",
+  "falcon": "Always automatically skips voting. You win by being the last one alive and can only lose by Ducks pulling off sabotage or Geese completing all tasks if you are still alive.",
+  "gravy": "賞金鵝 完全全部任務有特別獎勵",
+  "lover": "戀人鴨鵝 同生共死",
+  "locksmith": "鎖匠鵝 可以打開監獄們",
+  "mechanic": "工程師鵝 可以跳洞",
+  "medium": "通靈鵝 隨時可以知道鬼魂的數量",
+  "mimic": "間諜鵝 鴨子會認為你是同夥 不能殺鵝",
+  "morphling": "變形鴨 可以變成別鴨/鵝",
+  "pigeon": "中立方 武漢鴨 在一回合內感染全部鵝/鴨即勝利 每次拍桌會重置",
+  "professional": "職業殺手鴨 不能拍屍體 鵝看不到你殺的屍體 但靠近時會自動舉報", 
+  "sherrif": "警長鵝 可以擊殺鴨子 若殺到鵝 兩者都會死",
+  "silencer": "沈默鴨 會議間可以強制靜音一個對象.",
+  "snoop": "Can hide in nooks and crannies.",
+  "spy": "臥底鴨 投票階段時 若你投的對象只有一票 你可以知道他的身份",
+  "technician": "Can approximately detect where sabotages are called in.",
+  "vigilante": "Can kill one player without consequences.",
+  "vulture": "中立方 禿鷹鴨 ",
+}
+
+export const prefix = '!';
