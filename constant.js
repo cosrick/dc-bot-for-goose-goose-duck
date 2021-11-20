@@ -15,7 +15,7 @@ export const respond = {
   "morphling": "變形鴨 可以變成別鴨/鵝",
   "pigeon": "中立方 武漢鴨 在一回合內感染全部鵝/鴨即勝利 每次拍桌會重置",
   "professional": "職業殺手鴨 不能拍屍體 鵝看不到你殺的屍體 但靠近時會自動舉報", 
-  "sheriff": "警長鵝 可以擊殺鴨子 若殺到鵝 兩者都會死",
+  "sherrif": "警長鵝 可以擊殺鴨子 若殺到鵝 兩者都會死",
   "silencer": "沈默鴨 會議間可以強制靜音一個對象.",
   "snoop": "Can hide in nooks and crannies.",
   "spy": "臥底鴨 投票階段時 若你投的對象只有一票 你可以知道他的身份",
